@@ -1,58 +1,51 @@
-# Hi, I'm Kuruva Mohan 👋
+# 👋 Hi, I'm Mohan  
 
-🎓 ECE Graduate | Quantum Computing Enthusiast | Python Full Stack Learner  
-🏆 AQVH Hackathon Winner | QRNG Developer | Patent: E-1/03619-2025-CHE  
+🎓 ECE Graduate | 💻 Python Developer | ⚛️ Quantum Computing Enthusiast  
 
----
+ECE Graduate | Quantum Computing & AI  
+QRNG (Python, Qiskit, Raspberry Pi) | Enterprise AI  
+🏆 AQVH Hackathon Winner | Patent Holder  
 
-## 👨‍💻 About Me
-
-I am an Electronics and Communication Engineering graduate passionate about **Quantum Computing, AI, and Secure Systems**.
-
-I built a **Quantum Random Number Generator (QRNG)** system using Qiskit, Flask APIs, AES-GCM encryption, and Raspberry Pi hardware integration.
-
-Currently, I am working on **Enterprise AI systems and voice-controlled automation (Jarvis)** using RAG models.
+I’m passionate about building **secure and intelligent systems** by combining electronics, quantum concepts, and software development.
 
 ---
 
-## 🚀 Skills
+## 🚀 Projects  
 
-- Python
-- Qiskit
-- Flask
-- AI / Machine Learning Basics
-- RAG (Retrieval-Augmented Generation)
-- HTML, CSS, JavaScript
-- Raspberry Pi
-- Git & GitHub
+### 🔐 Quantum Random Number Generator (QRNG)  
+- Built using **Python, Qiskit, and Raspberry Pi**  
+- Generates true randomness using quantum principles  
+- Applied concepts like **entropy extraction & secure key generation**  
 
 ---
 
-## 🔬 Projects
-
-### 🔐 Quantum Random Number Generator (QRNG)
-Quantum-secure communication system using QRNG + QKD (BB84/E91) + AES-GCM encryption with dashboard monitoring.
-
----
-
-### 🤖 Enterprise AI Assistant (RAG + Jarvis)
-
-An intelligent AI system designed to control devices and provide secure enterprise-level automation.
-
-**Key Features:**
-- Voice-controlled assistant (Jarvis concept)
-- RAG-based knowledge retrieval system
-- Device control (Laptop, Mobile, IoT)
-- Secure data handling
-- Scalable architecture for enterprise use
-
-**Tech Stack:**
-Python, Flask, RAG, APIs, AI Models
+### 🤖 Enterprise AI System  
+- Developed an **AI-based intelligent system** for real-world applications  
+- Focused on **automation, decision-making, and backend integration**  
+- Built using **Python & Flask**  
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Achievements  
+- 🥇 **1st Place – Amaravati Quantum Valley Hackathon**  
+- 📜 Patent: *E-1/03619-2025-CHE*  
 
-- GitHub: https://github.com/your-username
-- LinkedIn: your-linkedin-link
-- Email: your-email
+---
+
+## 🛠️ Skills  
+- **Languages:** Python  
+- **Technologies:** Qiskit, Flask, Raspberry Pi  
+- **Domains:** Quantum Computing, AI Systems, Backend Development  
+
+---
+
+## 🎯 Current Focus  
+- Python Full Stack Development  
+- Quantum Technologies & Secure Systems  
+- Building scalable backend applications  
+
+---
+
+## 📫 Connect with Me  
+- GitHub: https://github.com/your-username  
+- LinkedIn: https://linkedin.com/in/your-profile  
