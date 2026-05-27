@@ -34,6 +34,7 @@ I’m passionate about building **secure and intelligent systems** by combining 
 
 ## 🛠️ Languages & Tools
 Python · C  · JavaScript · HTML · CSS
+
 Linux · Git · GitHub
 NumPy · Pandas · scikit-learn
 
