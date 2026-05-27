@@ -35,10 +35,11 @@ I’m passionate about building **secure and intelligent systems** by combining 
 ## 🛠️ Languages & Tools
 Python · C  · JavaScript · HTML · CSS
 
-Linux · Git · GitHub
+Git · GitHub
 NumPy · Pandas · scikit-learn
 
 Additional exposure through coursework and experimentation:
+
 Qiskit · IBM Quantum   
 
 ---
