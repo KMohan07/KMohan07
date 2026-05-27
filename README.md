@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohan  
+#  Hi, I'm Kuruva Mohan 👋 
 
 🎓 ECE Graduate | 💻 Python Developer | ⚛️ Quantum Computing Enthusiast  
 
