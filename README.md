@@ -1,6 +1,6 @@
 #  Hi, I'm Kuruva Mohan  👋
 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/ECE-Graduate-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-Developer-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Quantum-Tech-purple?style=for-the-badge" />
@@ -99,8 +99,8 @@ My coursework includes core electronics and related subjects that emphasize logi
 ---
 
 ## 📫 Connect with Me  
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- GitHub: https://https://github.com/KMohan07 
+- LinkedIn: https://https://www.linkedin.com/in/kuruva-mohan-b09b0738b/ 
 
 ---
 
