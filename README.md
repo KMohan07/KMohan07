@@ -32,10 +32,13 @@ I’m passionate about building **secure and intelligent systems** by combining 
 
 ---
 
-## 🛠️ Skills  
-- **Languages:** Python  
-- **Technologies:** Qiskit, Flask, Raspberry Pi  
-- **Domains:** Quantum Computing, AI Systems, Backend Development  
+## 🛠️ Languages & Tools
+Python · C  · JavaScript · HTML · CSS
+Linux · Git · GitHub
+NumPy · Pandas · scikit-learn
+
+Additional exposure through coursework and experimentation:
+Qiskit · IBM Quantum   
 
 ---
 
